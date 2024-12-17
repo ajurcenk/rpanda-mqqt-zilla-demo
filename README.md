@@ -1,6 +1,6 @@
 # rpanda-mqqt-zilla-demo
 
-This is the example Redpanda MQQT using [zilla](https://github.com/aklivity/zilla)
+This is the example Redpanda MQTT using [zilla](https://github.com/aklivity/zilla)
 
 ## Running locally
 
