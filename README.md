@@ -1,6 +1,6 @@
-# mqtt.redpanda.broker
+# rpanda-mqqt-zilla-demo
 
-This is the example Redpanda MQQT usinf zilla
+This is the example Redpanda MQQT using [zilla](https://github.com/aklivity/zilla)
 
 ## Running locally
 
